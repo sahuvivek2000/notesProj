@@ -1,0 +1,56 @@
+body {
+  background-image: linear-gradient(to bottom, #080bdf, #080bdf, #80b5d4);
+  background-repeat: no-repeat;
+ 
+  /* background-size: 100%; */
+}
+div.intro-card {
+  margin-top: 20%;
+  margin-left: 0%;
+  margin-right: 10%;
+  color: #acc7db;
+  /* background-color: #ffafaf; */
+  border-radius: 16px;
+  border: 0px;
+  background: #080bdf;
+  box-shadow: 14px 14px 23px #101165, -14px -14px 23px #282dff;
+}
+
+
+img.hero-img {
+  block-size: 40%;
+}
+div.intro {
+  margin-top: 15%;
+}
+h2.card-title{
+    color: #dae3ea;
+}
+nav{
+    box-shadow: 0px 1px 10px #101165;
+}
+div.body-card{
+  margin-top: -30%;
+  padding-bottom: 10%;
+}
+p.heading{
+  font-family: 'Courier New';
+  font-size: 30px;
+  font-weight: lighter;
+  color: #cbf4de;
+}
+div.over-card{
+  background: #cbf4de7e;
+  
+  border-radius: 18px;
+  box-shadow: 8px 8px 25px #101165, -14px -14px 25px #282dff;
+  color: #0f12f5;
+  padding-top: 3%;
+}
+img.card-img-top{
+  height: 130px;
+  width: 130px;
+}
+a.btn{
+  background: #0f12f5;
+}
